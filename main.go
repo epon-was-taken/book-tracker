@@ -1,7 +1,6 @@
 package main
 
-import "fmt"
+import "book-tracker/book"
 
 func main() {
-	fmt.Printf("Hello, World!")
 }
